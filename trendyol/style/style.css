@@ -73,4 +73,6 @@ span {
 }
 table, td {
     border:1px solid black;
+    padding-left: 10px;
+    padding-top: 15px;
 }
