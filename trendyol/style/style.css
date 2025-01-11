@@ -1,0 +1,56 @@
+.div_header {
+    width: 1440px;
+    height: 50px;
+    background-color: rgba(239, 246, 246, 0.94);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    
+}
+ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0; 
+}
+.text_li {
+    display: inline-block;
+    padding: 20px;
+   
+
+}
+span {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.logo {
+    width: 30px;
+    height: 50px;
+}
+.div_navigation {
+    width: 1440px;
+    height: 67px;
+    /* display: flex; */
+
+}
+.nav_header {
+    width: 995px;
+    height: 75px;
+    background-color: #F9F1F1;
+    margin: 0 auto;
+    
+}
+.nav_ul {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+
+/* დასრულდა ჰედერი */
+
+.banner {
+    width: 1440px;
+    height: 400px;
+}
+
